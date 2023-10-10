@@ -2,8 +2,9 @@
 
 Name might change to "carbme" or "SKÆRSGUMINEKULHYDRATAKTIVEENZYMER"
 
+## Development 
 
-## Prototype roadmap
+### Prototype roadmap
 
   - [ ] Carl: Identify cazymes using the most comprehensible database (dbcan) and fastest aligner (diamond).
   - [ ] Ove: Link known substrates to state of the art genome scale metabolic models applying gap-filling etc.
@@ -11,7 +12,7 @@ Name might change to "carbme" or "SKÆRSGUMINEKULHYDRATAKTIVEENZYMER"
 
 If the prototype is successful, we'll publish the pipeline as a CLI tool on bioconda for everyone to enjoy.
 
-## Tool development roadmap
+### Tool development roadmap
   - [ ] Test on many datasets and benchmark.
   - [ ] Write communication and publish in fancy journal.
   - [ ] Streamline package and publish on bioconda.
