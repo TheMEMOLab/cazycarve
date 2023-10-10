@@ -1,5 +1,9 @@
 # cazycarve
 
+![MicrosoftTeams-image (8)](https://github.com/TheMEMOLab/cazycarve/assets/5913696/789e408a-309c-471d-ab78-809fd540522c)
+
+
+
 Name might change to "carbme" or "SKÆRSGUMINEKULHYDRATAKTIVEENZYMER"
 
 ## Development 
