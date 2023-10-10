@@ -20,4 +20,4 @@ Name might change to "carbme" or "SKÆRSGUMINEKULHYDRATAKTIVEENZYMER"
   - [Ove Øyås](https://github.com/oveoyas)
   - [Carl M. Kobel](https://github.com/cmkobel/)
 
-Funded by NNF SuPAcow and EU horizon Holoruminant.
+Funded by NNF SuPAcow and EU Horizon Holoruminant.
