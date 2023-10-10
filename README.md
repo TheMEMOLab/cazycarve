@@ -1,6 +1,7 @@
-# Cazycarve
+# cazycarve
 
-Name might change
+Name might change to "carbme" or "SKÆRSGUMINEKULHYDRATAKTIVEENZYMER"
+
 
 ## Prototype roadmap
 
