@@ -12,9 +12,9 @@ Name might change to "carbme" or "SKÆRSGUMINEKULHYDRATAKTIVEENZYMER"
 If the prototype is successful, we'll publish the pipeline as a CLI tool on bioconda for everyone to enjoy.
 
 ## Tool development roadmap
-  - [ ] Test on many datasets
-  - [ ] Benchmark
-  - [ ] Write short communication and publish in journal+bioconda
+  - [ ] Test on many datasets and benchmark.
+  - [ ] Write communication and publish in fancy journal.
+  - [ ] Streamline package and publish on bioconda.
   - [ ] Win prizes and give talks at ISME.
 
 
