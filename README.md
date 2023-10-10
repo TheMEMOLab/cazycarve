@@ -22,4 +22,5 @@ If the prototype is successful, we'll publish the pipeline as a CLI tool on bioc
   - [Ove Øyås](https://github.com/oveoyas)
   - [Carl M. Kobel](https://github.com/cmkobel/)
 
-Funded by NNF SuPAcow and EU Horizon Holoruminant.
+
+Developed by the MEMO group at NMBU. Funded by NNF SuPAcow and EU Horizon Holoruminant.
