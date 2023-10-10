@@ -1,5 +1,10 @@
-# import argparse
+#!/usr/bin/env python3
 
+# import argparse
+import subprocess
 
 
 # Parses command line arguments and runs the appropriate snakemake command. For now we'll just run snakemake directly and deal with the packaging when the prototype is successful.
+
+command = "snakemake --profile profiles/local --config input_genome=test/Treatment_LowE.metabat.242.fasta"
+subprocess.run(command, shell = True)

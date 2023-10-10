@@ -11,15 +11,14 @@ __author__ = "Ove Øyås & Carl Mathias Kobel"
 
 
 rule all:
-    input: "path/to/output.txt"
-    input: "path/to/failed_output.txt"
+    input: "results/dbcan.txt"
     
 
 # How do we package the databases? Depends on their licenses.
 
 
-rule diamond:
-    output: touch("path/to/output.txt")
+rule diamond_dbcan:
+    output: touch("results/dbcan.txt")
     conda: "conda_definitions/diamond.yaml"
     # threads: 1
     # resources: 
