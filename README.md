@@ -15,7 +15,7 @@ Name might change
   - [ ] Win prizes and give talks at ISME.
 
 
-### Authors and funding
+## Affiliations
   - [Ove Øyås](https://github.com/oveoyas)
   - [Carl M. Kobel](https://github.com/cmkobel/)
 
