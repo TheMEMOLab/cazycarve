@@ -15,6 +15,8 @@ Name might change
   - [ ] Win prizes and give talks at ISME.
 
 
-## Authors
+### Authors and funding
   - [Ove Øyås](https://github.com/oveoyas)
   - [Carl M. Kobel](https://github.com/cmkobel/)
+
+Funded by NNF SuPAcow and EU horizon Holoruminant.
