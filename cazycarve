@@ -1,0 +1,5 @@
+# import argparse
+
+
+
+# Parses command line arguments and runs the appropriate snakemake command. For now we'll just run snakemake directly and deal with the packaging when the prototype is successful.

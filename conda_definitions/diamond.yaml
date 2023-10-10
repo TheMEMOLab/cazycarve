@@ -1,6 +1,6 @@
-name: mashtree
+name: diamond
 channels:
   - conda-forge
   - bioconda
 dependencies:
-  - mashtree
+  - diamond>=2.1.8
