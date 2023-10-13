@@ -23,9 +23,3 @@ If the prototype is successful, we'll publish the pipeline as a CLI tool on bioc
   - [ ] Win prizes and give talks at ISME.
 
 
-## Affiliations
-  - [Ove Øyås](https://github.com/oveoyas)
-  - [Carl M. Kobel](https://github.com/cmkobel/)
-
-
-Developed by [the MEMO group at NMBU](https://www.nmbu.no/en/research/groups/memo-group-microbial-ecology-and-meta-omics). Funded by NNF SuPAcow and EU Horizon Holoruminant.
