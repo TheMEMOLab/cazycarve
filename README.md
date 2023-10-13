@@ -11,8 +11,8 @@ Name might change to "carbme" or "SKÆRSGUMINEKULHYDRATAKTIVEENZYMER"
 ### Prototype roadmap
 
   - [ ] Carl: Identify cazymes using the most comprehensible database (dbcan) and fastest aligner (diamond).
-  - [ ] Ove: Link known substrates to state of the art genome scale metabolic models applying gap-filling etc.
-  - [ ] Both: Integrate these two things together to estimate the growth potential of the identified cazyme-substrate links.
+  - [ ] Ove & Idun: Link known substrates to state of the art genome scale metabolic models applying gap-filling etc.
+  - [ ] All: Integrate these two things together to estimate the growth potential of the identified cazyme-substrate links.
 
 If the prototype is successful, we'll publish the pipeline as a CLI tool on bioconda for everyone to enjoy.
 
